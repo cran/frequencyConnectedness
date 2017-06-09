@@ -1,9 +1,10 @@
-b789fde558e1a2a3010843a20a5b8802 *DESCRIPTION
+9e3650e1ebf581ca542c5d9d11774050 *DESCRIPTION
 744d67db93ac08c813a14d27e520d028 *NAMESPACE
+3aed2d8334b56d4203f4bec88b6e03e1 *NEWS
 bff1b4da618e7162a6103a43d73e5438 *R/directionalSpillovers.R
 49567376f2a3e7858e94a181585592f2 *R/fevd.R
 fbe311e96c21afa328281d3871b34e3e *R/spilloverTable.R
-52165ede7aa6caab8890270c6ccad68e *R/spillovers.R
+659e9accd8458c8280613b236d2c6466 *R/spillovers.R
 f26c3b7527abcc349a8570bac21659a2 *R/tools.R
 39292c48e5b3ca8733c290bf5da82004 *data/exampleSim.rda
 caa0b74389a5dfc3c22de4376ec2aad5 *man/absolute_from.Rd
@@ -32,7 +33,7 @@ a89535c0945ac9a06fe9454a784d14a9 *man/get_within_to.Rd
 958343f21baa1c56c2558d05ad0360a0 *man/makeStructure.Rd
 855c45c447450029ba0e8330c2ac978c *man/plotSpills.Rd
 a0dfa5b369bb25e84c075944de0736ec *man/plotSpillsAll.Rd
-c25dd5d661f2571d5a8880865085883a *man/plot_spills.Rd
+7194eefaac5ac6b315cfe7b6af5a5f9b *man/plot_spills.Rd
 5392ff566231f04caccac294f11765c9 *man/spillover.Rd
 6ce22cfd2db9ca5667a7b4ac1c2e2550 *man/spilloverBK09.Rd
 07a92170014f9e8d68bd389dcc2f84b0 *man/spilloverBK12.Rd
@@ -53,4 +54,4 @@ f10824decb28fc76c067ef77364e1447 *man/spilloverRollingDY12.Rd
 d768feb2471537b3ac1758a3c5b70379 *tests/testthat/DY12.csv
 c2db63f1b84dfdb341892b84f09564b6 *tests/testthat/DY12output.csv
 1e33b8932a5d4ecad9355e01a8cafe2f *tests/testthat/simul_data.csv
-d3e3bb4b1f8e696532eef98be1f607bc *tests/testthat/test-basic.r
+c3673f25c946892c5a73c38edf2c3f72 *tests/testthat/test-basic.r
