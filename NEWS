@@ -1,3 +1,19 @@
+frequencyConnectedness v0.2.1 (Release date: )
+==============
+
+Changes:
+
+* Based on the pull request #2, the warning has been removed for cases when the class of data is longer than 1. Thanks go to `regisely`.
+
+
+frequencyConnectedness v0.2.0 (Release date: 2017-07-12)
+==============
+
+Changes:
+
+* The way to call the functions has been redesigned and whole new system of S3 functions has been implemented. There are now new concise functions for plotting and printing. Refer to the front page on the github.com/tomaskrehlik/frequencyConnectedness
+
+
 frequencyConnectedness v0.1.6 (Release date: 2017-06-09)
 ==============
 

@@ -4,7 +4,7 @@
 \alias{spilloverDY09}
 \title{Computing spillover from a fevd according to Diebold Yilmaz (2009)}
 \usage{
-spilloverDY09(est, n.ahead = 100, no.corr, table = F)
+spilloverDY09(est, n.ahead = 100, no.corr)
 }
 \arguments{
 \item{est}{the estimate of a system, typically VAR estimate in our case}
@@ -14,8 +14,9 @@ should be high enough so that it won't change with additional period}
 
 \item{no.corr}{boolean parameter whether the off-diagonal in the covariance matrix should be
 set to zero}
-
-\item{table}{boolean whether the full spillover table should be returned}
+}
+\value{
+spillover_table object
 }
 \description{
 This function is an internal implementation of the spillover.
