@@ -4,8 +4,15 @@
 \alias{spilloverRolling}
 \title{Computing rolling spillover}
 \usage{
-spilloverRolling(func_spill, params_spill, func_est, params_est, data, window,
-  cluster = NULL)
+spilloverRolling(
+  func_spill,
+  params_spill,
+  func_est,
+  params_est,
+  data,
+  window,
+  cluster = NULL
+)
 }
 \arguments{
 \item{func_spill}{name of the function that returns FEVD for the estimtate est}
