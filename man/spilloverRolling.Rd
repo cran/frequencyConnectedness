@@ -11,7 +11,8 @@ spilloverRolling(
   params_est,
   data,
   window,
-  cluster = NULL
+  cluster = NULL,
+  check_data = TRUE
 )
 }
 \arguments{
@@ -28,6 +29,8 @@ spilloverRolling(
 \item{window}{length of the window to be rolled}
 
 \item{cluster}{either NULL for no parallel processing or the variable containing the cluster.}
+
+\item{check_data}{whether to check the data for NAs before starting estimation. Typically should be left true unless the underlying estimate is providing a way how to infer those NAs.}
 }
 \value{
 A corresponding spillover value on a given freqeuncy band, ordering of bands corresponds to the ordering of original bounds.

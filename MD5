@@ -1,12 +1,12 @@
-21f9f08df0dd60f32916484ef712219f *DESCRIPTION
+8e17f236ccf67bb17def8764ba4fab3f *DESCRIPTION
 efb8e69c192dfca2abd09949b2e5164b *NAMESPACE
-b637eadaa38a248a845cd4dbdd7198b3 *NEWS
+735360f96471dcdfa3e5828059b0f88f *NEWS
 243d4d545a0ac14e911e941fbf513cbe *R/fevd.R
 5a164fbbc8e5ea105dba8a132e557757 *R/list_of_spills_methods.R
 33073d6fa1cd5acd2320346701edec14 *R/onAttach.R
 c768428c08cca4863b6397599e02e858 *R/spillover_table_methods.R
 ee333d4ce60678f25b6da645d9c2c2c6 *R/spillovers.R
-653db8c05c5187cee728c6a466238287 *R/spilloversRolling.R
+6d44652b741be2cd4bb01b0291a7a46f *R/spilloversRolling.R
 0e3af08c0e7ad7317d1d05ed3703f2ad *R/spillovers_exported_methods.R
 0f87bd1d5431db55ca5d713ae46026d4 *R/tools.R
 39292c48e5b3ca8733c290bf5da82004 *data/exampleSim.rda
@@ -40,7 +40,7 @@ e002cc07b0d6812a9882f419eb8dbe6e *man/plotNet.Rd
 bddcd2be46c9f9ef5b1fd50b80af6985 *man/plotOverall.Rd
 e5492d93d41859df474dc966f566a4b6 *man/plotOverall.list_of_spills.Rd
 362e153073f3de50cb7c1f6b855fc96c *man/plotPairwise.Rd
-abe52677d20a74eead98e18b486cc8b4 *man/plotPairwise.list_of_spills.Rd
+575e10623cb95ae1528e46ad72084cce *man/plotPairwise.list_of_spills.Rd
 ea4934fd1196baf375226568e0b9abc5 *man/plotTo.Rd
 b5c0b6880776673e7c5bf2bc5b636376 *man/plotTo.list_of_spills.Rd
 530bc361cc89d4341ec8f79994d31380 *man/print.list_of_spills.Rd
@@ -51,7 +51,7 @@ ba205f5a1944d4ca2ac4912ad233e88e *man/spilloverBK12.Rd
 513d22018baf48ad9a8369bf115354c8 *man/spilloverDY09.Rd
 b867c05e7a73484bf7c63b143d53265e *man/spilloverDY12.Rd
 13595a66bda0c82182d5af9b41223535 *man/spilloverFft.Rd
-4f1f6519491829f0b3fe31376e6bdccd *man/spilloverRolling.Rd
+09827d8319dab03291071a68edd3e89c *man/spilloverRolling.Rd
 d620042a3bd5dd77897aafd5826fdc1d *man/spilloverRollingBK09.Rd
 297b5887b9bf712d0ab04dccdc7a497a *man/spilloverRollingBK12.Rd
 9438cf68967df4fa642131d733056db6 *man/spilloverRollingDY09.Rd
@@ -64,4 +64,4 @@ dfefe9b7223df2c69940c8e2b42ceff1 *man/volatilities.Rd
 d768feb2471537b3ac1758a3c5b70379 *tests/testthat/DY12.csv
 c2db63f1b84dfdb341892b84f09564b6 *tests/testthat/DY12output.csv
 1e33b8932a5d4ecad9355e01a8cafe2f *tests/testthat/simul_data.csv
-d89005e2e14d075214cd4e26fc167420 *tests/testthat/test-basic.r
+b3320c4ba52baaf1d142ceebf4db74a6 *tests/testthat/test-basic.r
